@@ -1,223 +1,254 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           ADITYA PANDEY — GITHUB PROFILE README               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--
+  ▄▀█ █▀▄ █ ▀█▀ █▄█ ▄▀█   █▀█ ▄▀█ █▄░█ █▀▄ █▀▀ █▄█
+  █▀█ █▄▀ █ ░█░ ░█░ █▀█   █▀▀ █▀█ █░▀█ █▄▀ ██▄ ░█░
+
+  You read the source. That tells me something about you.
+  Exactly the kind of person I want to meet.
+  → adityapandey9326@gmail.com
+-->
+
+```
+                                                          
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   
+   ░                                               ░   
+   ░     A D I T Y A   P A N D E Y                ░   
+   ░                                               ░   
+   ░     AI × ML Developer                         ░   
+   ░     Builder of things that think.             ░   
+   ░     Student, MIPS Kanpur — Class of 2028      ░   
+   ░                                               ░   
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   
+                                                          
+```
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADITYA%20PANDEY&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=400&size=16&pause=3000&color=888888&center=true&vCenter=true&width=600&lines=Not+looking+for+a+job.+Looking+for+a+problem+worth+solving.)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+5%E2%AD%90+HackerRank+%7C+100%2B+LeetCode;Building+AI+that+thinks+%2B+feels;NLP+%7C+Flask+%7C+React+%7C+Scikit-learn;Seeking+Summer+2026+AI%2FML+Internship)](https://git.io/typing-svg)
-
-</div>
+<br/>
 
 ---
 
-<table>
-<tr>
-<td width="55%">
+<br/>
 
-## 🧠 The Human Behind The Code
+## &nbsp;&nbsp;001 &nbsp;/&nbsp; Who
 
-I'm **Aditya Pandey** — a first-year B.Tech (AI & ML) student at MIPS Kanpur, **Class of 2028.**
+<br/>
 
-I don't write code for the sake of writing code.
+&nbsp;&nbsp;&nbsp;&nbsp;I'm Aditya. I build AI systems.
 
-I build **systems that understand humans** — not just their inputs, but their intent, emotion, and context.
+&nbsp;&nbsp;&nbsp;&nbsp;Not because it's trending —
+&nbsp;&nbsp;&nbsp;&nbsp;because I genuinely believe the most important software
+&nbsp;&nbsp;&nbsp;&nbsp;being written right now sits at the intersection of
+&nbsp;&nbsp;&nbsp;&nbsp;**machine intelligence** and **human emotion.**
 
-My edge: while most developers focus on *syntax*, I focus on **systems thinking + AI orchestration**. I use Prompt Engineering and LLMs as a force multiplier, freeing up time to solve the problems that actually matter.
+&nbsp;&nbsp;&nbsp;&nbsp;I'm in my first year. I've already shipped three real systems.
+&nbsp;&nbsp;&nbsp;&nbsp;That gap between where most students are and where I am
+&nbsp;&nbsp;&nbsp;&nbsp;is the only thing I'll ever brag about.
 
-> *"If there are 5 seats and a million applicants — I want to be the one who already solved a problem for the interviewer before they asked."*
-
-📍 Kanpur, Uttar Pradesh &nbsp;|&nbsp; 📬 adityapandey9326@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adityapandey-ai-ml)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5⭐_Python-00EA64?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Solved-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/)
-
-</td>
-<td width="45%" align="center">
+<br/>
 
 ```python
-class AdityaPandey:
+# This is how I approach every problem.
+# Not a buzzword. An actual workflow.
 
-    def __init__(self):
-        self.role     = "AI & ML Developer"
-        self.college  = "MIPS Kanpur (2024–2028)"
-        self.location = "Kanpur, India 🇮🇳"
+def how_i_work(problem):
+    understand  = ask_why_three_times(problem)
+    model       = draw_it_before_coding(understand)
+    build       = clean_logic_first(model)
+    iterate     = ship_then_improve(build)
+    return iterate
 
-    @property
-    def stack(self):
-        return {
-          "brain"  : ["NLP", "Scikit-learn",
-                      "Pandas", "NumPy", "NLTK"],
-          "bridge" : ["React", "Flask", "REST APIs"],
-          "base"   : ["Python ⭐⭐⭐⭐⭐", "C++",
-                      "DSA", "OOP"],
-        }
-
-    def philosophy(self):
-        return "Clean logic first. Empathy always."
-
-me = AdityaPandey()
+# The gap between good developers and great ones
+# is almost always in the first two lines.
 ```
 
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🏗️ Flagship Projects
+<br/>
 
----
+## &nbsp;&nbsp;002 &nbsp;/&nbsp; What I've Built
 
-### 🔥 DPI — Data Pipeline Intelligence &nbsp;`[ HIGHLIGHT BUILD ]`
+<br/>
 
-> **The project that changed how I think about building.**
+### &nbsp;&nbsp;&nbsp;&nbsp;◆ &nbsp;DPI — Data Pipeline Intelligence &nbsp;&nbsp;`[ SIGNATURE BUILD ]`
 
-This isn't a tutorial project. DPI was engineered from scratch — a real working system built problem by problem, architecture decision by architecture decision. Every component was designed with purpose. Every layer has a reason to exist.
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;*The build that changed how I think about systems.*
+
+<br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                      DPI  ARCHITECTURE                          │
-│                                                                 │
-│   Raw Input ──► [ Data Parser ] ──► [ Processing Engine ]      │
-│                                             │                   │
-│                                    [ ML Intelligence Layer ]    │
-│                                             │                   │
-│              [ React Dashboard ] ◄──► [ Flask REST API ]       │
-│                                             │                   │
-│                              Structured, Actionable Output      │
-└─────────────────────────────────────────────────────────────────┘
+  INPUT                    CORE                        OUTPUT
+  ─────                    ────                        ──────
+
+  Raw Data ──────────► [ Parser Layer ]
+                               │
+                      [ Processing Engine ] ◄──── Context Variables
+                               │
+                      [ ML Intelligence ]  ──────► Predictions
+                               │
+                     [ Flask REST API ]
+                          │         │
+                [ React UI ] ◄───────┘
+                      │
+               Actionable Insight
 ```
 
-**What makes DPI stand out:**
+<br/>
 
-- Built with a **real engineering process** — Requirements → Architecture → Implementation → Iteration
-- Every component was thought through **at the systems level**, not patched together
-- Reflects my core belief: *understand the problem deeply before writing line 1*
-- Demonstrates full-stack AI integration: data in → intelligence out
+&nbsp;&nbsp;&nbsp;&nbsp;DPI isn't impressive because of the tech stack.
+&nbsp;&nbsp;&nbsp;&nbsp;It's impressive because **every component has a single job,
+&nbsp;&nbsp;&nbsp;&nbsp;and does it perfectly.**
 
-**Tech Used:** `Python` `Flask` `React` `RESTful APIs` `Data Processing` `ML Pipeline Design`
+&nbsp;&nbsp;&nbsp;&nbsp;That's not a beginner's instinct. That's systems thinking.
 
-**Key takeaway:** The best systems aren't the most complex ones — they're the ones where every part has a clear reason to exist.
+&nbsp;&nbsp;&nbsp;&nbsp;`Python` &nbsp;`Flask` &nbsp;`React` &nbsp;`REST API` &nbsp;`ML Pipeline Design`
 
----
-
-### 🌱 SCAS — Smart Crop Advisory System
-
-> **ML + Agriculture. Because intelligence should serve real people.**
-
-A precision agriculture platform giving farmers **data-driven fertilizer and crop recommendations** — not guesses, not generic advice, but ML-backed decisions based on actual soil and environmental conditions.
-
-| Layer | What I Built |
-|---|---|
-| 🧪 **ML Engine** | Scikit-learn pipeline analyzing soil pH, moisture & weather patterns |
-| 🖥️ **Frontend** | React dashboard with real-time soil data visualization |
-| ⚙️ **Backend** | Flask RESTful API handling async requests between UI & prediction engine |
-| 🔗 **Integration** | Full end-to-end: raw environmental input → structured advisory output |
-
-**Tech Stack:** `React` `Flask` `Scikit-learn` `Pandas` `REST APIs` `Machine Learning`
+<br/>
 
 ---
 
-### 💬 MEMET — My Mate (AI Emotional Assistant)
+<br/>
 
-> **The hardest problem in AI isn't intelligence. It's empathy.**
+### &nbsp;&nbsp;&nbsp;&nbsp;◆ &nbsp;SCAS — Smart Crop Advisory System
 
-MEMET is my most personal project — an NLP-driven assistant designed to track emotional growth and respond to users with genuine human context. Not another chatbot. An *emotional companion.*
+<br/>
 
-- **Sentiment Analysis Engine** — detects emotional tone and adapts responses in real-time
-- **Structured JSON Memory** — fast retrieval of past interactions for context continuity
-- **Empathy-First UX** — every design decision asked: *"How does this feel to a real person?"*
+&nbsp;&nbsp;&nbsp;&nbsp;Farmers in India make fertilizer decisions based on gut feel.
+&nbsp;&nbsp;&nbsp;&nbsp;I built something that gives them data instead.
 
-**Tech Stack:** `Python` `NLP` `Flask` `NLTK` `Sentiment Analysis` `JSON`
+&nbsp;&nbsp;&nbsp;&nbsp;ML pipeline → soil pH + weather patterns → specific actionable output.
+&nbsp;&nbsp;&nbsp;&nbsp;React dashboard → real-time visualization → no agronomy degree required.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`React` &nbsp;`Scikit-learn` &nbsp;`Flask` &nbsp;`Pandas` &nbsp;`REST API`
+
+<br/>
 
 ---
 
-## 🛠️ Full Tech Arsenal
+<br/>
+
+### &nbsp;&nbsp;&nbsp;&nbsp;◆ &nbsp;MEMET — My Mate
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;*The hardest problem in AI isn't intelligence. It's empathy.*
+
+&nbsp;&nbsp;&nbsp;&nbsp;An NLP assistant that doesn't just process text —
+&nbsp;&nbsp;&nbsp;&nbsp;it reads emotional tone and responds accordingly.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Sentiment analysis. Memory across sessions. Empathy-first UX.
+&nbsp;&nbsp;&nbsp;&nbsp;Built because I believe the next frontier of AI
+&nbsp;&nbsp;&nbsp;&nbsp;is **emotional intelligence.**
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Python` &nbsp;`NLP` &nbsp;`NLTK` &nbsp;`Flask` &nbsp;`Sentiment Analysis`
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;003 &nbsp;/&nbsp; Stack
+
+<br/>
+
+```
+  INTELLIGENCE LAYER         INTEGRATION LAYER         FOUNDATION
+  ──────────────────         ─────────────────         ──────────
+  Python (5★ HackerRank)     React.js                  Git & GitHub
+  Scikit-learn               Flask                     Linux / CLI
+  NLP & NLTK                 RESTful APIs              VS Code
+  Pandas & NumPy             JSON / CSV                Vercel
+  Prompt Engineering         Responsive Web Design     DSA (100+ LC)
+```
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;004 &nbsp;/&nbsp; Numbers
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`5 ★` &nbsp;&nbsp;&nbsp;&nbsp;Python — HackerRank Gold Badge
+
+&nbsp;&nbsp;&nbsp;&nbsp;`100+` &nbsp;&nbsp;&nbsp;DSA problems solved on LeetCode
+
+&nbsp;&nbsp;&nbsp;&nbsp;`3` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Real systems shipped in Year 1
+
+&nbsp;&nbsp;&nbsp;&nbsp;`2028` &nbsp;&nbsp;&nbsp;Graduation — a long runway still ahead
+
+&nbsp;&nbsp;&nbsp;&nbsp;`1` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goal: build things that matter
+
+<br/>
+
+---
+
+<br/>
+
+## &nbsp;&nbsp;005 &nbsp;/&nbsp; Right Now
+
+<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;Pushing DPI and SCAS toward production-ready state
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;Going deeper on ML deployment & backend scalability
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;**Actively open to Summer 2026 AI/ML Internships**
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;Building a portfolio that speaks before I do
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-| Domain | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **AI / ML** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NLTK](https://img.shields.io/badge/NLTK-NLP-4B8BBE?style=flat-square) |
-| **Full Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) ![REST APIs](https://img.shields.io/badge/REST-APIs-FF6B6B?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
-</div>
-
----
-
-## 🏆 Achievements That Matter
-
-<div align="center">
-
-| 🏅 Achievement | Detail |
-|---|---|
-| 🥇 **Python 5-Star Gold Badge** | HackerRank — Top percentile nationwide |
-| 💡 **100+ DSA Problems Solved** | LeetCode — Consistent algorithmic depth |
-| 📜 **Prompt Engineering Certified** | IBM / Cognitive Class — Applied LLM orchestration |
-| 📜 **HP Life Certified** | AI Foundations · Data Science & Analytics · Effective Leadership |
-| 🎓 **CGPA: 7.20** | B.Tech CSE (AI & ML) — Maharana Institute of Professional Studies |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityamax0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamax0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="40%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityamax0&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
-</div>
-
----
-
-## 🎯 Right Now
-
 ```
-▶  Pushing DPI & SCAS toward production-ready state
-▶  Deepening skills in ML deployment & backend scalability  
-▶  Actively open to Summer 2026 AI/ML Internships
-▶  Solving DSA daily — depth, not just numbers
-▶  Building a portfolio that speaks before I do
+  If you've read this far —
+  you probably have a problem I'd find interesting.
+
+  Let's talk.
 ```
 
----
+**[adityapandey9326@gmail.com](mailto:adityapandey9326@gmail.com)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**[LinkedIn](https://www.linkedin.com/in/adityapandey-ai-ml)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+**[HackerRank](https://www.hackerrank.com/)**
 
-## 💭 How I Think
+<br/>
 
 ```
-Every system I build follows one process:
-
-   UNDERSTAND → MODEL → DESIGN → BUILD → TEST → OPTIMIZE
-
-I don't rush implementation. I don't copy-paste solutions.
-I understand the "why" before writing line 1.
-
-This isn't slower. It's how you build things that actually work.
+  ──────────────────────────────────────────────────────
+  "5 seats. A million applicants.
+   I build things that work. That's my answer."
+  ──────────────────────────────────────────────────────
 ```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-**If you're hiring for Summer 2026 — let's talk.**
-
-[![Email](https://img.shields.io/badge/📬_adityapandey9326@gmail.com-contact_me-A78BFA?style=for-the-badge)](mailto:adityapandey9326@gmail.com)
-
-*"5 seats. A million applicants. I build things — that's my answer."*
 
 </div>
+
+<!--
+  EASTER EGG #2
+
+  You found the second one. Respect.
+  Most people never open the source.
+  You're not most people.
+
+  The first easter egg is at the very top of this file.
+  There are 3 total. Good luck finding the last one.
+
+  — Aditya
+-->
+
