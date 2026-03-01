@@ -10,11 +10,18 @@
   <p><em>AI × ML Developer &nbsp;·&nbsp; Builder of things that think &nbsp;·&nbsp; Kanpur, India</em></p>
   <br/>
   <a href="mailto:adityapandey9326@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/adityapandey-ai-ml">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://adityapandey.dev">Portfolio</a>
+  <a href="https://www.linkedin.com/in/aditya-pandey-ai-ml">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Adityamax0">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/adityapandey9326">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://www.hackerrank.com/profile/adityapandey9326">HackerRank</a> &nbsp;·&nbsp;
+  <a href="https://adityapandey.vercel.app">Portfolio</a>
   <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=15&pause=4000&color=999999&center=true&width=480&lines=Not+looking+for+a+job.+Looking+for+a+problem+worth+solving." alt=""/>
-  <br/><br/>
+
+  <blockquote>
+  <em>Most people learn tools. I learn how problems think.</em>
+  </blockquote>
+
+  <br/>
 
 ---
 
@@ -22,82 +29,122 @@
 
 ### Who
 
-I'm a first-year B.Tech (AI & ML) student at MIPS Kanpur, Class of 2028.
+B.Tech CSE (AI & ML) · MIPS Kanpur · Semester 4 · Class of 2028.
 
-I build systems that sit at the intersection of **machine intelligence and human emotion** — not because it's trending, but because I think that's where the most important software is being written right now.
+I am not the developer who knows the most libraries.
+I am the developer who understands **why** a solution works —
+and can rebuild it from first principles if needed.
 
-First year. Three real systems shipped. The gap between where most students are and where I am is the only credential I need.
+That distinction matters more than any tech stack.
 
 ```python
-def how_i_work(problem):
-    understand = ask_why_three_times(problem)     # most skip this
-    model      = draw_it_before_coding(understand) # most skip this too
-    build      = clean_logic_first(model)
-    return ship_then_improve(build)
+# I don't just use models. I understand what they're doing.
+
+def my_edge(problem):
+    step_1 = understand_the_problem_deeply(problem)   # most skip this
+    step_2 = design_the_logic_on_paper(step_1)        # most skip this too  
+    step_3 = implement_clean_and_modular(step_2)
+    step_4 = iterate_until_it_actually_works(step_3)
+    return step_4
+
+# The difference between a developer who codes
+# and one who thinks — is always in steps 1 and 2.
 ```
 
 ---
 
-### What I've Built
+### What I'm Building
 
-**DPI — Data Pipeline Intelligence** `signature build`
+**DPI — Data Pipeline Intelligence** &nbsp;&nbsp;`signature build`
 
-The project that changed how I think. A full end-to-end intelligence pipeline — raw data in, structured insight out — with every layer having exactly one job and doing it perfectly. Systems thinking in code.
+A full end-to-end data intelligence pipeline. Raw input → parsing → ML processing → structured output. Every layer has exactly one responsibility. Every decision has a reason.
 
-`Python` `Flask` `React` `REST API` `ML Pipeline`
+This is the project that taught me what systems thinking actually means — not as a phrase, but as a practice.
 
----
-
-**SCAS — Smart Crop Advisory System**
-
-Farmers make fertilizer decisions on gut feel. I built something that gives them data instead. ML pipeline processing soil pH and weather patterns → React dashboard → specific, actionable output. No agronomy degree required.
-
-`React` `Scikit-learn` `Flask` `Pandas`
+`Python` `Scikit-learn` `ML Pipeline Design` `Data Processing` `Prompt Engineering`
 
 ---
 
-**MEMET — My Mate**
+**SCAS — Smart Crop Advisory System** &nbsp;&nbsp;`in development`
 
-The hardest problem in AI isn't intelligence. It's empathy. An NLP assistant that reads emotional tone and responds with context — not just keyword matching. Built because I think emotional intelligence is the next frontier.
+Core ML logic complete. Trained on soil pH, moisture, and weather data to generate fertilizer recommendations. Frontend prototype done. Currently working toward a full production-ready deployment.
 
-`Python` `NLP` `NLTK` `Flask` `Sentiment Analysis`
+The goal: give farmers in India data-backed decisions instead of guesswork.
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `NLP`
 
 ---
 
-### Stack
+**MEMET — My Mate** &nbsp;&nbsp;`in development`
+
+Sentiment analysis engine built. Emotional tracking logic complete. The idea: an AI assistant that doesn't just read your words — it reads your state of mind.
+
+Frontend prototype done. Working toward full deployment with a proper dev team.
+
+`Python` `NLP` `NLTK` `Sentiment Analysis`
+
+---
+
+### What I Actually Know
 
 ```
-AI / ML       Python (5★ HackerRank) · Scikit-learn · NLP · NLTK · Pandas · NumPy
-Full Stack    React · Flask · REST APIs · Vercel
-Foundation    C++ · Git · Linux · DSA (100+ LeetCode) · OOP
+Core Language     Python — 5★ HackerRank Gold Badge. This is home.
+
+AI / ML           Scikit-learn · Pandas · NumPy · NLTK
+                  Natural Language Processing · Sentiment Analysis
+                  Prompt Engineering & LLM Orchestration
+
+CS Fundamentals   Data Structures & Algorithms (100+ LeetCode)
+                  OOP — Encapsulation, Abstraction, Inheritance, Polymorphism
+                  C++ basics · Git & GitHub · Linux CLI
+
+Currently         Learning deeper ML deployment, model evaluation,
+Learning          and production-grade architecture
 ```
+
+> I list what I know. Not what I've heard of.
 
 ---
 
-### Numbers that matter
+### Numbers
 
 | | |
 |---|---|
-| `5 ★` | Python — HackerRank Gold |
-| `100+` | DSA problems — LeetCode |
-| `3` | Real systems, Year 1 |
+| [`5 ★ Python`](https://www.hackerrank.com/profile/adityapandey9326) | HackerRank Gold Badge |
+| [`100+ Problems`](https://leetcode.com/u/adityapandey9326) | LeetCode DSA |
+| `Sem 4` | Building real ML systems |
 | `2028` | Graduation. Long runway ahead. |
+
+---
+
+### How I Think
+
+Most developers ask: *"What tool solves this?"*
+
+I ask: *"What is this problem actually doing? What does a solution need to be true for this to work? What breaks if I'm wrong?"*
+
+That's not a framework. That's just how I approach every problem — from a DSA question to a full ML pipeline.
+
+It's slower at first. It's faster forever after.
 
 ---
 
 <div align="center">
 
-*If you've read this far, you probably have a problem I'd find interesting.*
+*If something I've built — or the way I think — caught your attention:*
 
-**[Let's talk →](mailto:adityapandey9326@gmail.com)**
+**[adityapandey9326@gmail.com](mailto:adityapandey9326@gmail.com)**
 
 <br/>
 
-> *"5 seats. A million applicants. I build things that work. That's my answer."*
+> *"5 seats. A million applicants.*
+> *I'm the one who understands the problem. That's my answer."*
 
 </div>
 
 <!--
-  Easter egg found. There's one more — in the portfolio source.
+  Still here? Good.
+  There's one more easter egg in the portfolio source.
+  Find it and email me. I'll remember that conversation.
   → adityapandey9326@gmail.com
 -->
