@@ -1,9 +1,9 @@
 <div align="center">
 
 # ADITYA PANDEY
-### SDE | B.Tech CSE (AI & ML)
+### Software Engineer | B.Tech CSE (AI & ML)
 
-Building high-performance backends, autonomous AI agents, and offline-first systems.
+Building scalable backends, high-throughput systems, and production-grade software architectures.
 
 <br/>
 
@@ -29,86 +29,86 @@ Building high-performance backends, autonomous AI agents, and offline-first syst
 
 ## 👨‍💻 About Me
 
-I am a **B.Tech CSE (AI & ML)** student at MIPS Kanpur (Class of 2028). I focus on practical system architecture, AI tools, and production-grade backends instead of basic tutorial clones.
+I am a **Software Engineer** and **B.Tech CSE (AI & ML)** student at MIPS Kanpur (Class of 2028). I focus on core software engineering principles—building clean backend systems, optimizing data pipelines, and writing maintainable, production-ready code.
 
-* **Specialization:** Multi-Agent Systems, Deep Packet Inspection (DPI), Agritech Workflows, and Code Automation.
-* **Approach:** Design clear logic on paper first, focus on high-level architecture, and build robust software.
-* **Goal:** Looking for Software Development Engineering (SDE) Internships where I can own system components end-to-end.
+* **Core Competencies:** Backend Architecture, Low-Level Packet Parsing, System Design, Automation, and Distributed Systems.
+* **Engineering Standard:** First-principles logic, robust error handling, and writing software built to scale.
+* **Current Focus:** Open for Software Engineering (SWE / Backend) Internships where I can solve non-trivial technical challenges.
 
 ---
 
 ## 🏆 Key Achievements
 
-* **5★ Gold Badge in Python** on HackerRank for strong problem-solving and OOP fundamentals.
-* **100+ LeetCode Solutions** covering core Data Structures & Algorithms.
-* **5 Solo Production Builds** designed, engineered, and deployed end-to-end.
-* **Specialized Degree Track:** Pursuing B.Tech CSE with focused specialization in AI & ML.
+* **5★ Gold Badge in Python** on HackerRank demonstrating advanced OOP and data manipulation skills.
+* **100+ Solved Problems** on LeetCode focused on Data Structures, Dynamic Programming, and Graph Algorithms.
+* **5 End-to-End Systems** architected, implemented, and deployed independently.
+* **Academic Specialization:** Specialized coursework in Computer Science, Machine Learning, and System Design.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Engineered Systems
 
 ### 1. 🔎 DPI Engine (Deep Packet Inspector)
-* Custom raw-socket packet parser built to inspect TCP/IP frames before encryption locks.
-* Classifies 50+ applications in real-time with fallback to a **Random Forest model** when SNI is hidden.
-* Includes a real-time Flask telemetry dashboard and PCAP file replay functionality.
-* **Tech Stack:** `Python` • `Scapy` • `scikit-learn` • `Flask`
+* Engineered a custom TCP/IP raw-socket parser to analyze network frames prior to encryption completion.
+* Implemented real-time classification for 50+ network protocols with a fallback **Random Forest model** for obscured payloads.
+* Built a telemetry engine featuring live Flask monitoring and full PCAP file replay support.
+* **Tech Stack:** `Python` • `Scapy` • `scikit-learn` • `Flask` • `Sockets`
 
 ---
 
-### 2. 🌾 SCAS (Smart Crop Advisory System)
-* Offline-first SaaS engine built for farmers in low-connectivity areas using MongoDB `2dsphere` spatial indexing.
-* Multimodal plant disease diagnosis via `Llama-3.2 Vision` and voice queries via `Whisper`.
-* Features an automated SLA state machine for ticket escalation.
-* **Tech Stack:** `Node.js` • `MongoDB` • `Groq API` • `Docker`
+### 2. 🌾 SCAS Engine (Smart Crop Advisory System)
+* Architected an offline-first SaaS backend engineered for low-connectivity environments using MongoDB `2dsphere` spatial indexing.
+* Integrated multimodal vision processing (`Llama-3.2 Vision`) and speech-to-text pipelines (`Whisper`) for automated diagnostics.
+* Implemented a state-machine driven SLA escalation workflow to handle background job routing seamlessly.
+* **Tech Stack:** `Node.js` • `MongoDB` • `Groq API` • `Docker` • `Express.js`
 
 ---
 
 ### 3. 📄 Scholar-Agent Pro
-* Autonomous **12-agent research analyst** that breaks down papers into structured summaries and LaTeX math formulas.
-* Includes an adversarial agent to cross-examine research claims and test methodology integrity.
-* Powered by zero-cost fast inference via Groq LLaMA 3.3 70B.
+* Developed a multi-agent analytical system that parses complex PDF documents into structured summaries and LaTeX math formulas.
+* Built a cross-examination engine to validate research methodologies and claims automatically.
+* Integrated high-throughput, low-latency API inference via Groq LLaMA 3.3.
 * **Tech Stack:** `Python` • `Streamlit` • `Groq API` • `PyMuPDF`
 
 ---
 
 ### 4. 🎯 LENS (Layout Error Navigation System)
-* Autonomous UI auditing engine that catches design-system drift (hardcoded hex colors, rogue `!important` tags).
-* Diffing via headless Chrome (`Puppeteer`) and `pixelmatch` visual inspection.
-* Automatically rewrites non-compliant CSS rules back to design tokens using AST transformations.
+* Designed an automated code auditing system that detects UI regressions, rogue CSS overrides, and design system drifts.
+* Integrated visual screenshot diffing using headless Chrome (`Puppeteer`) and `pixelmatch`.
+* Automated code repair via Abstract Syntax Tree (AST) transformations to rewrite non-compliant CSS back to design tokens.
 * **Tech Stack:** `Node.js` • `Puppeteer` • `pixelmatch` • `Babel AST`
 
 ---
 
-### 5. 💬 MEMET
-* Emotionally aware AI companion scoring **98% EQ** across stress benchmark tests.
-* Features crisis detection with direct routing to emergency helpline infrastructure.
+### 5. 💬 MEMET Engine
+* Developed a high-speed conversational engine reaching a **98% benchmark score** on behavioral evaluation tests.
+* Implemented real-time crisis detection logic with direct, deterministic routing to emergency endpoints.
 * **Tech Stack:** `FastAPI` • `Groq API` • `Vanilla JS` • `Docker`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages & Core**  
-`Python` • `C++` • `JavaScript` • `Node.js` • `SQL`
+**Core Languages**  
+`Python` • `C++` • `JavaScript (Node.js)` • `SQL`
 
-**AI / ML Frameworks**  
-`scikit-learn` • `PyTorch` • `Pandas` • `NumPy` • `Groq API`
+**Backend & Infrastructure**  
+`FastAPI` • `Express.js` • `Flask` • `MongoDB` • `REST APIs` • `Docker`
 
-**Backend & Tools**  
-`FastAPI` • `Flask` • `Express.js` • `MongoDB` • `Docker` • `Git` • `Linux`
+**Developer Tools & Environment**  
+`Git` • `Linux (Bash)` • `GitHub Actions` • `Puppeteer` • `Postman`
 
 ---
 
 ## 💡 Engineering Mindset
 
-> *"Building software isn't just about picking frameworks—it's about understanding how systems operate underneath and writing code that stays resilient in production."*
+> *"Good software engineering is not about writing clever code—it is about designing simple, readable, and maintainable systems that behave predictably in production."*
 
 ---
 
 <div align="center">
 
-### 📬 Open for Summer 2026 SDE Internships & Collaborations
+### 📬 Open for Software Engineering (SWE) Roles & Opportunities
 
 <a href="mailto:adityapandey9326@gmail.com">
   <img src="https://img.shields.io/badge/Send_Direct_Email-adityapandey9326%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
