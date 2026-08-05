@@ -1,191 +1,119 @@
 <div align="center">
 
-<!-- Top Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=ADITYA%20PANDEY&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20Architect%20%7C%20Systems%20Orchestrator%20%7C%20B.Tech%20CSE%20(AI%20%26%20ML)&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
+<!-- Modern Minimalist High-Impact Header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ADITYA%20PANDEY&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Principal%20AI%20Systems%20Architect%20%7C%20Distributed%20ML%20Engineers&descAlignY=65&descSize=18" width="100%"/>
 
 <br/>
 
-<!-- Dynamic Typing Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=9D4EDD&center=true&vCenter=true&width=750&lines=Building+the+layer+between+data+and+high-level+decisions.;Architecting+autonomous+agents+%26+offline-first+systems.;Focusing+on+multi-agent+orchestration+%26+system+logic." alt="Typing SVG" />
+<!-- Executive Punchline Typing SVG -->
+<a href="https://github.com/Adityamax0">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Architecting+production-grade+autonomous+multi-agent+ecosystems.;Zero-dependency+low-level+packet+parsers+%26+resilient+SaaS.;Engineering+high-throughput%2C+fault-tolerant+AI+infrastructure." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social Quick Badges -->
-<a href="mailto:adityapandey9326@gmail.com"><img src="https://img.shields.io/badge/Email-101020?style=for-the-badge&logo=gmail&logoColor=7B2CBF"/></a>
-<a href="https://www.linkedin.com/in/aditya-pandey-ai-ml"><img src="https://img.shields.io/badge/LinkedIn-101020?style=for-the-badge&logo=linkedin&logoColor=7B2CBF"/></a>
-<a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/GitHub-101020?style=for-the-badge&logo=github&logoColor=7B2CBF"/></a>
-<a href="https://leetcode.com/u/adityapandey9326"><img src="https://img.shields.io/badge/LeetCode-101020?style=for-the-badge&logo=leetcode&logoColor=7B2CBF"/></a>
-<a href="https://adityapandeyportfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-101020?style=for-the-badge&logo=vercel&logoColor=7B2CBF"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
-
-</div>
-
-## 🧠 System Architecture & Vision
-
-I am an **AI Architect & Systems Orchestrator** pursuing **B.Tech CSE (AI & ML)** at MIPS Kanpur (Class of 2028). Instead of writing line-by-line boilerplate, I focus on high-level system logic, multi-agent workflows, production-grade deployments, and resilience under real-world constraints.
-
-* **Core Approach:** Read RFCs, sketch system architecture on paper, and orchestrate agentic workflows to build robust software.
-* **Focus Areas:** Agentic systems, Deep Packet Inspection (DPI), offline-first SaaS architectures, and autonomous self-healing engines.
-* **Current Pursuit:** Summer 2026 AI Engineering / Systems / Technical Management roles where I own system design end-to-end.
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
-</div>
-
-## ⚡ Featured High-Impact Builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 DPI Engine</h3>
-      <p><b>Zero-Library Raw-Socket Packet Inspector</b></p>
-      <ul>
-        <li>Parses raw sockets directly; extracts TLS SNI prior to encryption locks.</li>
-        <li>Classifies 50+ network protocols in real-time with Random Forest fallback.</li>
-        <li>Includes real-time Flask dashboard & PCAP replay functionality.</li>
-      </ul>
-      <p><b>Tech:</b> <code>Python</code> <code>Scapy</code> <code>Flask</code> <code>scikit-learn</code></p>
-      <a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/View_Repository-7B2CBF?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌾 SCAS (Smart Crop Advisory)</h3>
-      <p><b>Offline-First Multi-Agent Agritech Engine</b></p>
-      <ul>
-        <li>Geospatial ticket routing engine powered by MongoDB <code>2dsphere</code>.</li>
-        <li>Multimodal disease diagnosis via Llama-3.2 Vision & voice input via Whisper.</li>
-        <li>SLA state machine escalation built for low-connectivity rural infrastructure.</li>
-      </ul>
-      <p><b>Tech:</b> <code>Node.js</code> <code>MongoDB</code> <code>Groq API</code> <code>Docker</code></p>
-      <a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/View_Repository-7B2CBF?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Scholar-Agent Pro</h3>
-      <p><b>12-Agent Autonomous Research Analyst</b></p>
-      <ul>
-        <li>Deconstructs complex research papers into structured executive insights.</li>
-        <li>Features LaTeX formula extraction and ELI15 summary generation.</li>
-        <li>Includes an adversarial agent to stress-test research paper claims.</li>
-      </ul>
-      <p><b>Tech:</b> <code>Streamlit</code> <code>Groq LLaMA 3.3 70B</code> <code>PyMuPDF</code></p>
-      <a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/View_Repository-7B2CBF?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 LENS (Layout Error Nav)</h3>
-      <p><b>Autonomous Self-Healing UI Auditor</b></p>
-      <ul>
-        <li>Detects design-system drift (hardcoded hex, rogue <code>!important</code> tags).</li>
-        <li>Performs screenshot pixel diffing with headless Chrome via Puppeteer.</li>
-        <li>Auto-fixes broken CSS back to design token standard using AST transforms.</li>
-      </ul>
-      <p><b>Tech:</b> <code>Node.js</code> <code>Puppeteer</code> <code>pixelmatch</code> <code>AST</code></p>
-      <a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/View_Repository-7B2CBF?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-
-### 💬 MEMET — Emotionally Aware AI Companion
-*98% EQ score on stress benchmarks, real-time crisis escalation, zero-dependency lightweight architecture.*  
-`FastAPI` • `Groq API` • `Vanilla JS` • `Docker`  
-<br/>
-<a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/View_MEMET_Repository-7B2CBF?style=flat-square&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
-
-</div>
-
-## 🛠️ Tech Stack & Ecosystem
-
-<div align="center">
-
-<!-- Tech Icons Grid -->
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,nodejs,mongodb,docker,git,linux,githubactions,postman&theme=dark" />
-
-<br/><br/>
-
-<!-- AI & Data Ecosystem Badges -->
-<img src="https://img.shields.io/badge/scikit--learn-101020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/PyTorch-101020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-<img src="https://img.shields.io/badge/Groq_API-101020?style=for-the-badge&logo=groq&logoColor=F55036"/>
-<img src="https://img.shields.io/badge/Pandas-101020?style=for-the-badge&logo=pandas&logoColor=150458"/>
-<img src="https://img.shields.io/badge/NumPy-101020?style=for-the-badge&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Streamlit-101020?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<!-- Direct Executive Contact Links -->
+<a href="mailto:adityapandey9326@gmail.com"><img src="https://img.shields.io/badge/DIRECT_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&border=A855F7"/></a>
+<a href="https://www.linkedin.com/in/aditya-pandey-ai-ml"><img src="https://img.shields.io/badge/LINKEDIN_PROFILE-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7"/></a>
+<a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/GITHUB_SYSTEMS-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"/></a>
+<a href="https://leetcode.com/u/adityapandey9326"><img src="https://img.shields.io/badge/LEETCODE_CORE-0D1117?style=for-the-badge&logo=leetcode&logoColor=A855F7"/></a>
+<a href="https://adityapandeyportfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO_SITE-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7"/></a>
 
 </div>
 
 <br/>
 
+---
+
+## 🏛️ Executive Summary & Systems Architecture
+
+Principal-level AI Systems Architect specializing in **high-throughput distributed ML backends**, **autonomous multi-agent orchestration**, and **zero-dependency network protocol parsing**. I engineer software from bare-metal network constructs up to resilient, offline-first production platforms—prioritizing system determinism, low-latency execution, and zero-trust fault recovery over surface-level wrapper scripts.
+
+* **Core Competencies:** Multi-Agent Systems, Deep Packet Inspection (DPI), AST Code Transformation Engines, Offline-First Geospatial Architecture.
+* **Engineering Standard:** RFC-driven architectural design, strict runtime constraints, and end-to-end telemetry.
+
+---
+
+## 🏆 Key Industry Achievements & Track Record
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+
+| Metric / Track | Achievement Level | Technical Impact / Scope |
+| :--- | :--- | :--- |
+| **HackerRank Certification** | **5★ Gold Badge (Python)** | Top-tier algorithmic precision & object-oriented architecture |
+| **Competitive Problem Solving** | **100+ LeetCode Solutions** | Optimized data structures, dynamic programming & graph logic |
+| **System Implementations** | **5 Production-Grade Systems** | End-to-end execution across AI agents, networking, and SaaS |
+| **Academic Specialization** | **B.Tech CSE (AI & ML)** | Deep theoretical focus on Neural Architectures & Machine Learning |
+
 </div>
 
-## 📊 Performance & Analytics
+---
 
-<div align="center">
+## 🚀 High-Impact Production Systems
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adityamax0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=8B949E" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityamax0&theme=dark&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" width="48%"/>
+### 1. 🔎 DPI Engine (Deep Packet Inspection & Network Protocol Classifier)
+> **Domain:** Low-Level Network Systems & Threat Classification
+* Engineered a **zero-external-library socket parser** extracting raw TCP/IP frames to inspect packet payloads before encryption handshake completion.
+* Intercepts TLS Server Name Indication (SNI) across **50+ applications in real-time** with fallback to a trained **Random Forest classifier** when packet headers are obfuscated.
+* Features a high-speed telemetry pipeline with an integrated Flask monitoring interface and PCAP replay capability.
+* **Tech Stack:** `Python`, `Scapy`, `scikit-learn`, `Flask`, `Raw Sockets`, `PCAP`
+
+---
+
+### 2. 🌾 SCAS Engine (Smart Crop Advisory System)
+> **Domain:** Distributed Multi-Agent SaaS & Offline-First Agritech
+* Designed an **offline-first fault-tolerant backend** capable of routing geospatial support tickets across high-latency, low-bandwidth environments using MongoDB `2dsphere` spatial indexing.
+* Integrated multimodal vision diagnostics (`Llama-3.2 Vision`) and local voice query synthesis (`Whisper API`) to resolve high-priority field diagnostics.
+* Architected an automated SLA state machine for real-time ticket escalation without human intervention.
+* **Tech Stack:** `Node.js`, `MongoDB GeoJSON`, `Groq Cloud API`, `Docker`, `Express.js`
+
+---
+
+### 3. 📄 Scholar-Agent Pro (12-Agent Research Analytics Engine)
+> **Domain:** Autonomous Multi-Agent Systems & NLP Pipeline
+* Architected a **12-agent orchestration pipeline** that deconstructs complex academic publications into structured domain insights, LaTeX mathematical proofs, and executive summaries.
+* Implemented an **adversarial peer-review agent** designed to stress-test research methodology, cross-examine benchmark integrity, and highlight invalid claims.
+* Powered by zero-latency inference orchestration using `Groq LLaMA 3.3 70B` models.
+* **Tech Stack:** `Python`, `Streamlit`, `Groq API`, `PyMuPDF`, `Multi-Agent Orchestration`
+
+---
+
+### 4. 🎯 LENS (Layout Error Navigation & Self-Healing UI Engine)
+> **Domain:** Autonomous UI Diagnostics & AST Code Transformation
+* Built an autonomous quality engine that audits design-system drift (hardcoded hex parameters, inline style overrides, rogue `!important` flags).
+* Performs visual regression diffing via headless Chrome (`Puppeteer`) and `pixelmatch` pixel-level analysis.
+* **Self-Healing Mechanics:** Automatically parses source code into an Abstract Syntax Tree (AST), rewrites non-compliant CSS rules back to design tokens, and commits fixes autonomously.
+* **Tech Stack:** `Node.js`, `Puppeteer`, `AST Parsing`, `pixelmatch`, `Babel Tooling`
+
+---
+
+### 5. 💬 MEMET (Emotionally-Aware AI Engine)
+> **Domain:** Production Behavioral AI & Real-Time Escalation
+* Developed a zero-dependency high-speed conversational engine reaching **98% EQ accuracy benchmark** under adversarial stress evaluation.
+* Features real-time behavioral crisis detection with automated direct-routing protocols to emergency infrastructure.
+* **Tech Stack:** `FastAPI`, `Groq LLaMA Engine`, `Vanilla JS`, `Docker Containerization`
+
+---
+
+## 🛠️ Production Tech Stack & Systems Tooling
+
+* **Languages & Core:** `Python`, `C++`, `JavaScript (ES6+)`, `Node.js`, `SQL`
+* **AI / ML Infrastructure:** `PyTorch`, `scikit-learn`, `Pandas`, `NumPy`, `Groq Cloud Engine`, `Whisper`
+* **Backend & Systems:** `FastAPI`, `Flask`, `Express.js`, `MongoDB`, `Docker`, `REST Architecture`
+* **DevOps & Tooling:** `Git`, `GitHub Actions CI/CD`, `Linux Administration`, `Puppeteer`, `Postman`
+
+---
+
+## 💡 Engineering Principles
+
+> *"Senior engineering is not about picking frameworks—it is about managing trade-offs, anticipating edge-case failures, and designing systems that remain deterministic when underlying dependencies fail."*
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityamax0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=8B949E" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
-</div>
-
-## 🏆 Key Milestones
-
 <div align="center">
 
-| 🐍 Python Mastery | 🧩 Problem Solving | 🚀 Production Builds | 🎓 Academic Standing |
-|:---:|:---:|:---:|:---:|
-| **5★ HackerRank Gold** | **100+ LeetCode Solutions** | **5+ End-to-End Systems** | **B.Tech CSE (AI & ML)** |
+### 📬 Open for High-Impact Roles in AI Engineering & Technical Leadership
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
-</div>
-
-## 💡 Engineering Philosophy
-
-> *"Don't just ask what tool solves the problem — ask what breaks first when the system hits production. Architecture is about orchestration, edge-case management, and building systems that scale beyond individual code lines."*
-
-<br/>
-
-<div align="center">
-
-### 📬 Open for Summer 2026 AI / Systems Engineering Internships
-
-<a href="mailto:adityapandey9326@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://adityapandeyportfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-101020?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Adityamax0&style=for-the-badge&color=7B2CBF&labelColor=101020" alt="profile views"/>
-
-<br/><br/>
-
-<!-- Footer Waving Line -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<a href="mailto:adityapandey9326@gmail.com"><img src="https://img.shields.io/badge/INITIATE_CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&border=A855F7"/></a>
 
 </div>
