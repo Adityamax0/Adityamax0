@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/aditya-pandey-ai-ml"><img src="https://img.shields.io/badge/LINKEDIN-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/Adityamax0"><img src="https://img.shields.io/badge/GITHUB-8A63D2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://leetcode.com/u/adityapandey9326"><img src="https://img.shields.io/badge/LEETCODE-8A63D2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://adityapandey.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-8A63D2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://adityapandeyportfolio-tau.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-8A63D2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/></a>
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ## 🧠 About
 
-I'm a B.Tech CSE (AI & ML) student at MIPS Kanpur — Semester 4, graduating 2028 — but I build like the syllabus is a formality. Five independent systems shipped solo: a packet inspector parsed from raw sockets, an ML-driven crop advisory backend, a 12-agent research analyst, a self-healing UI auditor, and an emotionally-aware companion app.
+I'm a B.Tech CSE (AI & ML) student at MIPS Kanpur — Semester 5, graduating 2028 — but I build like the syllabus is a formality. Strongest work so far: a packet inspector parsed from raw sockets, and an ML-driven crop advisory backend built for real farmers with real constraints.
 
 I don't chase tutorials. I read the RFC, design the logic on paper, then build — because the gap between a working demo and a system you can trust is entirely in that first step.
 
