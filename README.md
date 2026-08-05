@@ -40,7 +40,7 @@ I am a **Software Engineer** and **B.Tech CSE (AI & ML)** student at MIPS Kanpur
 ## 🏆 Key Achievements
 
 * **5★ Gold Badge in Python** on HackerRank demonstrating advanced OOP and data manipulation skills.
-* **100+ Solved Problems** on LeetCode focused on Data Structures, Dynamic Programming, and Graph Algorithms.
+* **200+ Solved Problems** on LeetCode focused on Data Structures, Dynamic Programming, and Graph Algorithms.
 * **5 End-to-End Systems** architected, implemented, and deployed independently.
 * **Academic Specialization:** Specialized coursework in Computer Science, Machine Learning, and System Design.
 
