@@ -1,7 +1,7 @@
 <div align="center">
 
 # ADITYA PANDEY
-### AI / ML Engineer | B.Tech CSE (AI & ML)
+### SDE | B.Tech CSE (AI & ML)
 
 Building high-performance backends, autonomous AI agents, and offline-first systems.
 
@@ -33,7 +33,7 @@ I am a **B.Tech CSE (AI & ML)** student at MIPS Kanpur (Class of 2028). I focus 
 
 * **Specialization:** Multi-Agent Systems, Deep Packet Inspection (DPI), Agritech Workflows, and Code Automation.
 * **Approach:** Design clear logic on paper first, focus on high-level architecture, and build robust software.
-* **Goal:** Looking for AI / Software Engineering Internships where I can own system components end-to-end.
+* **Goal:** Looking for Software Development Engineering (SDE) Internships where I can own system components end-to-end.
 
 ---
 
@@ -108,7 +108,7 @@ I am a **B.Tech CSE (AI & ML)** student at MIPS Kanpur (Class of 2028). I focus 
 
 <div align="center">
 
-### 📬 Open for Summer 2026 Internships & Collaborations
+### 📬 Open for Summer 2026 SDE Internships & Collaborations
 
 <a href="mailto:adityapandey9326@gmail.com">
   <img src="https://img.shields.io/badge/Send_Direct_Email-adityapandey9326%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/>
